@@ -9,7 +9,7 @@ import org.example.CompanyFactory.Company;
 public class Bmw implements Company {
     @Override
     public Car buildOffroadCar() {
-        return new OffroadCar("BMW");
+        return new OffroadCar("BMWA");
     }
 
     @Override
